@@ -29,7 +29,7 @@ public class MainApp {
                 if(busquedaSecuencial(matriz,num)){
                     j--;                    
                 }else
-                    matriz[i][j]=num;
+                    matriz[i][j]=num+2;
             }
         }
         return matriz;
