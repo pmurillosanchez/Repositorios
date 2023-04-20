@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"PabloAntonioMurilloSanchez.CalculadoraApp","l":"Calcula"},{"p":"PabloAntonioMurilloSanchez.CalculadoraApp","l":"CalculadoraApp"}];updateSearchResults();
